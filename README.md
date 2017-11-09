@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # workshop_website
 
 HTML static page to create (fastly) a website for a workshop.
@@ -28,3 +29,7 @@ Note that you can publish directly in [Github Page](https://pages.github.com/).
 
 Here's the example for this repository:
 http://gdolle.github.io/workshop_website
+=======
+# DataConference
+Data Conf
+>>>>>>> origin/DataConf
